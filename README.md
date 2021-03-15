@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 💬 Congenial and ambitious software professional with good Artificial Intelligence and Distributed computing technology skills along with pragmatic approach for detailed study. Deeply interested in Artificial Intelligence & Distributed Computing.
+- 💬 Congenial and ambitious software professional with good Artificial Intelligence and Distributed computing technology skills along with pragmatic approach for detailed study. 
 
 - 🔭 I’m currently working on Microservices ,Java , Python , Spring , Springboot , Docker , Kubernetes & GCP
 
