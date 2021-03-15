@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I am Akhilesh 👋
 
 <!--
 **akhilespande/akhilespande** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 💬 Congenial and ambitious software professional with good Artificial Intelligence and Distributed computing technology skills along with pragmatic approach for detailed study. Deeply interested in Artificial Intelligence & Distributed Computing.
+
+- 🔭 I’m currently working on Microservices ,Java , Python , Spring , Springboot , Docker , Kubernetes & GCP
+
+I'm best reached via email akhilespande@gmail.com. I'm always open to interesting conversations and collaboration.
