@@ -27,7 +27,7 @@ I'm Akhilesh from India, Congenial and ambitious software professional with good
 
 ## Skills and Experience
 * 📱 Java, Python, Microservices, Spring, Springboot, Docker, Kubernetes, PCF & GCP
-* ⚛ React, Angular
+* ⚛ React, Angular, Node JS
 * 💻 Machine Learning, Deep Learning, Statistical Modeling
 
 ## Reach Me
