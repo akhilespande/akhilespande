@@ -13,10 +13,20 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 - 💬 Congenial and ambitious software professional with good Artificial Intelligence and Distributed computing technology skills along with pragmatic approach for detailed study. 
 
 - 🔭 I’m currently working on Microservices ,Java , Python , Spring , Spring Cloud, Springboot , Docker , Kubernetes & GCP
+
+-->
+
+# Akhilesh Pandey
+I'm Akhilesh from India, Congenial and ambitious software professional with good Artificial Intelligence, Machine Learning and Distributed computing technology skills along with pragmatic approach for detailed study.
+
+## Skills and Experience
+* 📱 Java, Python, Microservices, Spring, Springboot, Docker, Kubernetes, PCF & GCP
+* ⚛ React, Angular
+* 💻 HTML, CSS, JS
 
 I'm best reached via email akhilespande@gmail.com. I'm always open to interesting conversations and collaboration.
