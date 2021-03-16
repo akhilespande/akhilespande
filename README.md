@@ -28,7 +28,7 @@ I'm Akhilesh from India, Congenial and ambitious software professional with good
 ## Skills and Experience
 * 📱 Java, Python, Microservices, Spring, Springboot, Docker, Kubernetes, PCF & GCP
 * ⚛ React, Angular
-* 💻 HTML, CSS, JS
+* 💻 Machine Learning, Deep Learning, Statistical Modeling
 
 ## Reach Me
 I'm best reached via email akhilespande@gmail.com. I'm always open to interesting conversations and collaboration.
