@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 I'm Akhilesh from India, Congenial and ambitious software professional with good Artificial Intelligence, Machine Learning and Distributed computing technology skills along with pragmatic approach for detailed study.
 
 ## Skills & Experience
-* 📱 Java, Python, Microservices, SOA, Webservices, SOAP, Rest, Spring, Springboot, RabbitMQ & Kafka  
+* 💻 Java, Python, Microservices, SOA, Webservices, SOAP, Rest, Spring, Springboot, RabbitMQ & Kafka  
 * ☁️ GIT, Docker, Kubernetes, Jenkins, PCF, AWS & GCP
 * ⚛ React, Angular, Node JS
 * 🧠 Machine Learning, Deep Learning, Statistical Modeling
