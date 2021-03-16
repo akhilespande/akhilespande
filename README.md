@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 I'm Akhilesh from India, Congenial and ambitious software professional with good Artificial Intelligence, Machine Learning and Distributed computing technology skills along with pragmatic approach for detailed study.
 
 ## Research and Publication
-* [Component based exception handling framework for SOA based services](https://ieeexplore.ieee.org/abstract/document/6963118)
+* [Component based exception handling framework for SOA based services](https://ieeexplore.ieee.org/abstract/document/6963118) Written by [Akhilesh Pandey](https://scholar.google.com/citations?user=SkXHwFMAAAAJ&hl=en) and published by [IEEE](https://ieeexplore.ieee.org/abstract/document/6963118)
 
 ## Skills and Experience
 * 📱 Java, Python, Microservices, Spring, Springboot, Docker, Kubernetes, PCF & GCP
