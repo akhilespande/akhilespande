@@ -1,7 +1,8 @@
+<!--
 ### Hi, I am Akhilesh 👋
 
-<!--
-**akhilespande/akhilespande** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
+<!--**akhilespande/akhilespande** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -29,4 +30,5 @@ I'm Akhilesh from India, Congenial and ambitious software professional with good
 * ⚛ React, Angular
 * 💻 HTML, CSS, JS
 
+## Reach Me
 I'm best reached via email akhilespande@gmail.com. I'm always open to interesting conversations and collaboration.
